@@ -8,6 +8,7 @@ they changed the reporting period from the full calendar year to June-to-June, a
 The dataset consists of records till the year 2021.
 
 Link to dataset : https://www.kaggle.com/datasets/gaurav126/forbes-richest-athletes-1990-2021
+
 Kaggle Link : https://www.kaggle.com/code/gaurav126/athletes-eda
 
 
